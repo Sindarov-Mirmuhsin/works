@@ -1,0 +1,46 @@
+.band{
+  margin-bottom: 70px;
+}
+
+.band__box{
+  display: flex;
+  align-items: center;
+}
+
+.band__sublist{
+  width: 490px;
+}
+
+.band__title{
+  text-transform: uppercase;
+  font-size: 50px;
+}
+
+.band__text{
+  color: #777777;
+  line-height: 150%;
+  color: #777777;
+  padding-left: 40px;
+  border-left: 3px solid #777777;
+  margin-bottom: 35px;
+}
+
+.band__link{
+  width: 260px;
+  background: #EA625C;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 150%;
+  padding: 12px 90px;
+}
+
+.band__link:hover{
+  background-color: #CC444D;
+}
+
+.band__img{
+  width: 400px;
+  height: 600px;
+  margin-left: 110px;
+}
