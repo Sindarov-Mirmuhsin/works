@@ -379,7 +379,7 @@ img {
 }
 
 .container {
-  max-width: 1040px;
+  max-width: 1130px;
   width: 100%;
   margin: 0 auto;
   padding: 0 20px;
@@ -406,6 +406,7 @@ img {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  padding-left: 0;
 }
 
 .nav__item {
@@ -441,7 +442,7 @@ img {
 }
 
 .container-main {
-  max-width: 1440px;
+  max-width: 1530px;
   width: 100%;
   padding-left: 20px;
   padding-right: 20px;
@@ -502,6 +503,8 @@ img {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  margin-top: 0;
+  padding-left: 0;
 }
 
 .health__item {
@@ -603,13 +606,13 @@ img {
 .band__img {
   width: 400px;
   height: 600px;
-  margin-left: 110px;
+  margin-left: 180px;
 }
 
 .footer {
   background-image: url("../../images/runners.jpg");
   background-repeat: no-repeat;
-  background-size: 1550px 830px;
+  background-size: 100%;
   height: 830px;
 }
 
@@ -622,6 +625,7 @@ img {
   width: 490px;
   margin-left: auto;
   padding-top: 250px;
+  padding-bottom: 250px;
 }
 
 .footer__title {
