@@ -533,6 +533,10 @@ img {
           align-items: center;
 }
 
+.health__suplist:hover .health__circle {
+  width: 60px;
+}
+
 .health__span {
   display: block;
   width: 8px;
